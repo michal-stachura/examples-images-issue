@@ -23,7 +23,7 @@
     </div>
     <hr class="mt-4">
     <h2 class="text-xl mt-8">Workaround</h2>
-    <p>This images works locally and on netlify but requre to set environment variable IMAGES_URL. On netlify image source is:</p>
+    <p>This images works locally and on netlify but requre to set environment variable IMAGES_URL set to: '../..'. On netlify image source is:</p>
       <pre class="bg-gray-800 p-4 my-4 rounded text-white">
         e.g. src="/_ipx/_/../../images/1.jpg"
       </pre>
